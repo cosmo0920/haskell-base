@@ -1,5 +1,8 @@
 haskell-base Cookbook
 =============
+
+[![Build Status](https://travis-ci.org/cosmo0920/haskell-base.png?branch=master)](https://travis-ci.org/cosmo0920/haskell-base)
+
 haskell cookbook to install ghc/cabal/haskell-platform
 
 Requirements
